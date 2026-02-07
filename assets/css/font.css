@@ -1,0 +1,24 @@
+@font-face{
+  font-family: cf1;
+  src: url(../fonts/BerkeleyMono_Oblique.p.f08c3069.ttf);
+}
+@font-face{
+  font-family: cf2;
+  src: url(../fonts/BerkeleyMono_Regular.p.e4888174.ttf);
+}
+@font-face{
+  font-family: cf3;
+  src: url(../fonts/CursorGothic_Bold-s.p.95169710.ttf);
+}
+@font-face{
+  font-family: cf4;
+  src: url(../fonts/CursorGothic_BoldItalic-s.p.036859cb.ttf);
+}
+@font-face{
+  font-family: cf5;
+  src: url(../fonts/CursorGothic_Italic-s.p.00bb2606.ttf);
+}
+@font-face{
+  font-family: cf6;
+  src: url(../fonts/CursorGothic_Regular-s.p.a361088d.ttf);
+}
